@@ -1,7 +1,7 @@
-[![logo](logo.png)](https://screeps.com)
+![logo](logo.png)
 
 Marlin config file for Arduino mega 2560
 
 Modifications made
 -------------
- nothing yet
+enable full graphic controller
