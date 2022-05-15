@@ -1,4 +1,8 @@
-[![logo](logo.png)]
+![logo](logo.png)
 
-Default Marlin config file 
+Marlin config file for Anet A8
+
+Modifications made
+-------------
+Null
 
